@@ -1,12 +1,6 @@
 // import logo from './logo.svg';
 import './App.css';
-// import './vendor/jquery/jquery.min.js';
-//  import './vendor/bootstrap/js/bootstrap.bundle.min.js';
-// //  import './assets/js/owl-carousel.js';
-// //  import './assets/js/animation.js';
-//  import './assets/js/imagesloaded.js';
-// //  import './assets/js/custom.js';
-// import ScriptTag from 'react-script-tag';
+
 import "./vendor/bootstrap/css/bootstrap.min.css";
 import "./assets/css/fontawesome.css";
 import "./assets/css/templatemo-seo-dream.css";
